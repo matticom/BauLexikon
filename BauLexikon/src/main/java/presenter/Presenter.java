@@ -176,7 +176,7 @@ public class Presenter {
 		Connection connection = ((EntityManagerImpl) (entitymanager.getDelegate())).getServerSession().getAccessor().getConnection();
 
 		try {
-			ij.runScript(connection, TermBOTest.class.getResourceAsStream("/Lexicon_Database_Schema_Derby.sql"), "UTF-8", System.out, "UTF-8");
+			ij.runScript(connection, getClass().getClassLoader().getResourceAsStream("Lexicon_Database_Schema_Derby.sql"), "UTF-8", System.out, "UTF-8");
 		} catch (Exception e) {
 			e.printStackTrace();
 		}
