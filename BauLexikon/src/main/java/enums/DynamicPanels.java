@@ -1,0 +1,5 @@
+package enums;
+
+public enum DynamicPanels {
+	SPECIALTY_PANEL, TECHNICAL_TERM_PANEL, SEARCH_RESULT_PANEL, LETTER_RESULT_PANEL
+}
