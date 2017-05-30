@@ -1,11 +1,11 @@
 ----------------------------------------------------------------
-Tue May 30 16:41:41 CEST 2017:
-Booting Derby version The Apache Software Foundation - Apache Derby - 10.12.1.1 - (1704137): instance a816c00e-015c-59ce-24ab-0000051f9598 
+Tue May 30 16:50:34 CEST 2017:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.12.1.1 - (1704137): instance a816c00e-015c-59d6-464e-0000051b7d60 
 on database directory memory:C:\eclipse\LexiconDB with class loader sun.misc.Launcher$AppClassLoader@73d16e93 
-Loaded from file:/C:/Users/Matti/.m2/repository/org/apache/derby/derby/10.12.1.1/derby-10.12.1.1.jar
+Loaded from file:/C:/Users/matth/.m2/repository/org/apache/derby/derby/10.12.1.1/derby-10.12.1.1.jar
 java.vendor=Oracle Corporation
-java.runtime.version=1.8.0_92-b14
-user.dir=C:\Users\Matti\git\BauLexikon\BauLexikon
+java.runtime.version=1.8.0_121-b13
+user.dir=C:\Users\matth\git\BauLexikon\BauLexikon
 os.name=Windows 10
 os.arch=amd64
 os.version=10.0
